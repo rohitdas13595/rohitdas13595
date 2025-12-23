@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 I'm a passionate full stack developer with expertise in building modern web applications. My tech stack includes Next.js, TypeScript, Go, SQL, and Python. I love creating efficient, scalable, and user-friendly solutions to complex problems.
 
-- 🔭 I'm currently working in  [Smoketrees Digital LLP](http://smokewtrees.in)
+- 🔭 I'm currently working in  [timepayAI](http://timepay.ai)
 - 🌱 I'm currently learning Go Lang
 - 💬 Ask me about web development, backend architecture, or database design
 - 📫 How to reach me: [contact@rohituno.com](mailto:contact@rohituno.com)
