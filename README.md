@@ -61,7 +61,7 @@ I'm a passionate full stack developer with expertise in building modern web appl
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohitdas13595&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitdas13595&theme=radical" alt="GitHub Streak">
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitdas13595&theme=radical" alt="GitHub Streak"> -->
 </div>
 
 ---
@@ -72,15 +72,16 @@ I'm a passionate full stack developer with expertise in building modern web appl
   <a href="https://github.com/rohitdas13595/health-nice">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitdas13595&repo=health-nice&theme=radical" alt="Project 1">
   </a>
-  <!-- <a href="https://github.com/rohitdas13595/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitdas13595&repo=project2&theme=radical" alt="Project 2">
-  </a> -->
+  <a href="https://sitesage.rohituno.com">
+    <p>An AI powered SEO toool.</p>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitdas13595&repo=sitesage&theme=radical" alt="Sitesage">
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=rohitdas13595&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>
 
 <div align="center">
